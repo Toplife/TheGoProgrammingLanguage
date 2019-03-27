@@ -110,5 +110,5 @@ Alan Donovan想要感谢Google的Sameer Ajmani、Chris Demetriou、Walt Drummond
 
 Brian Kernighan对他的朋友和同事深表感谢，他们对Kernighan花费了很长时间才达成对语言的理解表示了耐心和理解。尤其是他的妻子Meg，她为Kernighan的写作以及太多的其他事物提供了不间断的支持。
 
-                                                                                                                          纽约
-                                                                                                                    2015年10月
+                                                                                        纽约
+                                                                                  2015年10月
